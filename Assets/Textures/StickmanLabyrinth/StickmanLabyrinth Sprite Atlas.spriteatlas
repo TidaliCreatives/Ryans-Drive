@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: StickmanLabyrinth Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 4
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+    - {fileID: 21300000, guid: bbdad8090586405468e162e6c7a31ed5, type: 3}
+    - {fileID: 21300000, guid: 6e0cf440d70f8f549a337c37da2b805b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 6e0cf440d70f8f549a337c37da2b805b: 21300000
+    - d07356c0e88e8064392cdf7f661ea5c0: 166456722
+    - d07356c0e88e8064392cdf7f661ea5c0: 171795100
+    - d07356c0e88e8064392cdf7f661ea5c0: -875857580
+    - d07356c0e88e8064392cdf7f661ea5c0: -1211542879
+    - d07356c0e88e8064392cdf7f661ea5c0: 788471936
+    - d07356c0e88e8064392cdf7f661ea5c0: 22365124
+    - d07356c0e88e8064392cdf7f661ea5c0: 1896689702
+    - d07356c0e88e8064392cdf7f661ea5c0: 655873202
+    - d07356c0e88e8064392cdf7f661ea5c0: -553730945
+    - d07356c0e88e8064392cdf7f661ea5c0: -1274513288
+    - d07356c0e88e8064392cdf7f661ea5c0: 66247366
+    - d07356c0e88e8064392cdf7f661ea5c0: 2095761800
+    - d07356c0e88e8064392cdf7f661ea5c0: -922718880
+    - d07356c0e88e8064392cdf7f661ea5c0: 598836104
+    - d07356c0e88e8064392cdf7f661ea5c0: -2047197049
+    - d07356c0e88e8064392cdf7f661ea5c0: -112904302
+    - d07356c0e88e8064392cdf7f661ea5c0: -1623725233
+    - d07356c0e88e8064392cdf7f661ea5c0: -1491515137
+    - d07356c0e88e8064392cdf7f661ea5c0: 56417608
+    - d07356c0e88e8064392cdf7f661ea5c0: 1302471005
+    - d07356c0e88e8064392cdf7f661ea5c0: -394804835
+    - d07356c0e88e8064392cdf7f661ea5c0: -1591228518
+    - d07356c0e88e8064392cdf7f661ea5c0: -617447605
+    - d07356c0e88e8064392cdf7f661ea5c0: -1725652653
+    - d07356c0e88e8064392cdf7f661ea5c0: 1279188866
+    - d07356c0e88e8064392cdf7f661ea5c0: -588404631289122664
+    - d07356c0e88e8064392cdf7f661ea5c0: -34946844
+    - bbdad8090586405468e162e6c7a31ed5: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6e0cf440d70f8f549a337c37da2b805b, type: 3}
+  - {fileID: 166456722, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: 171795100, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: -875857580, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: -1211542879, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: 788471936, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: 22365124, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: 1896689702, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: 655873202, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: -553730945, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: -1274513288, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: 66247366, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: 2095761800, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: -922718880, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: 598836104, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: -2047197049, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: -112904302, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: -1623725233, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: -1491515137, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: 56417608, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: 1302471005, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: -394804835, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: -1591228518, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: -617447605, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: -1725652653, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: 1279188866, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: -588404631289122664, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: -34946844, guid: d07356c0e88e8064392cdf7f661ea5c0, type: 3}
+  - {fileID: 21300000, guid: bbdad8090586405468e162e6c7a31ed5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - RedStairsUp
+  - Red Labyrinth Tilemap_24
+  - Red Labyrinth Tilemap_25
+  - Red Labyrinth Tilemap_26
+  - Red Labyrinth Tilemap_20
+  - Red Labyrinth Tilemap_21
+  - Red Labyrinth Tilemap_22
+  - Red Labyrinth Tilemap_23
+  - Red Labyrinth Tilemap_19
+  - Red Labyrinth Tilemap_18
+  - Red Labyrinth Tilemap_15
+  - Red Labyrinth Tilemap_14
+  - Red Labyrinth Tilemap_17
+  - Red Labyrinth Tilemap_16
+  - Red Labyrinth Tilemap_11
+  - Red Labyrinth Tilemap_10
+  - Red Labyrinth Tilemap_8
+  - Red Labyrinth Tilemap_13
+  - Red Labyrinth Tilemap_9
+  - Red Labyrinth Tilemap_12
+  - Red Labyrinth Tilemap_6
+  - Red Labyrinth Tilemap_7
+  - Red Labyrinth Tilemap_4
+  - Red Labyrinth Tilemap_5
+  - Red Labyrinth Tilemap_2
+  - Red Labyrinth Tilemap_3
+  - Red Labyrinth Tilemap_0
+  - Red Labyrinth Tilemap_1
+  - RedStairsDown
+  m_RenderDataMap: {}
+  m_Tag: StickmanLabyrinth Sprite Atlas
+  m_IsVariant: 0

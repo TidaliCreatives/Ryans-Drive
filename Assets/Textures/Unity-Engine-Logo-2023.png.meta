@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 7423dca49a492d34fa614266adc37f30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1810466530449871606
+    second: Unity-Engine-Logo-2023_0
+  - first:
+      213: 3674679167336291837
+    second: Unity-Engine-Logo-2023_1
+  - first:
+      213: 4743669622240732332
+    second: Unity-Engine-Logo-2023_2
+  - first:
+      213: -5144528920293611634
+    second: Unity-Engine-Logo-2023_3
+  - first:
+      213: 8458066708109686369
+    second: Unity-Engine-Logo-2023_4
+  - first:
+      213: -7952909061350576468
+    second: Unity-Engine-Logo-2023_5
+  - first:
+      213: -3686416581447191330
+    second: Unity-Engine-Logo-2023_6
+  - first:
+      213: 8539034573490284400
+    second: Unity-Engine-Logo-2023_7
+  - first:
+      213: -1544632909119608606
+    second: Unity-Engine-Logo-2023_8
+  - first:
+      213: 874774378758925323
+    second: Unity-Engine-Logo-2023_9
+  - first:
+      213: 5918208020504160607
+    second: Unity-Engine-Logo-2023_10
+  - first:
+      213: 8455743308099926031
+    second: Unity-Engine-Logo-2023_11
+  - first:
+      213: -5696748598422864591
+    second: Unity-Engine-Logo-2023_12
+  - first:
+      213: 1992302414902170335
+    second: Unity-Engine-Logo-2023_13
+  - first:
+      213: 8565082504064684748
+    second: Unity-Engine-Logo-2023_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Unity-Engine-Logo-2023_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 219
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d2dc6684eefd6e0800000000000000
+      internalID: -1810466530449871606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity-Engine-Logo-2023_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 219
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd9b90cb351ff230800000000000000
+      internalID: 3674679167336291837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity-Engine-Logo-2023_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 219
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4687d6366e4d140800000000000000
+      internalID: 4743669622240732332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity-Engine-Logo-2023_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 219
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87ec213436fa98b0800000000000000
+      internalID: -5144528920293611634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity-Engine-Logo-2023_4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 137
+        width: 131
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1667f67bbd6116570800000000000000
+      internalID: 8458066708109686369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity-Engine-Logo-2023_5
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 177
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caea633585791a190800000000000000
+      internalID: -7952909061350576468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity-Engine-Logo-2023_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 235
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4fab096a737dcc0800000000000000
+      internalID: -3686416581447191330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity-Engine-Logo-2023_7
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 177
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077eaade3beb08670800000000000000
+      internalID: 8539034573490284400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity-Engine-Logo-2023_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 178
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e82c8f8d8c509ae0800000000000000
+      internalID: -1544632909119608606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity-Engine-Logo-2023_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 178
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ce988a9a2d32c00800000000000000
+      internalID: 874774378758925323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity-Engine-Logo-2023_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 178
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59a401b6d2b12250800000000000000
+      internalID: 5918208020504160607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity-Engine-Logo-2023_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 178
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08be2ffcb5d85570800000000000000
+      internalID: 8455743308099926031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity-Engine-Logo-2023_12
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 178
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dfc48155511f0b0800000000000000
+      internalID: -5696748598422864591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity-Engine-Logo-2023_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 178
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2956d9d7416ab10800000000000000
+      internalID: 1992302414902170335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity-Engine-Logo-2023_14
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 161
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc250be58294dd670800000000000000
+      internalID: 8565082504064684748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Unity-Engine-Logo-2023_0: -1810466530449871606
+      Unity-Engine-Logo-2023_1: 3674679167336291837
+      Unity-Engine-Logo-2023_10: 5918208020504160607
+      Unity-Engine-Logo-2023_11: 8455743308099926031
+      Unity-Engine-Logo-2023_12: -5696748598422864591
+      Unity-Engine-Logo-2023_13: 1992302414902170335
+      Unity-Engine-Logo-2023_14: 8565082504064684748
+      Unity-Engine-Logo-2023_2: 4743669622240732332
+      Unity-Engine-Logo-2023_3: -5144528920293611634
+      Unity-Engine-Logo-2023_4: 8458066708109686369
+      Unity-Engine-Logo-2023_5: -7952909061350576468
+      Unity-Engine-Logo-2023_6: -3686416581447191330
+      Unity-Engine-Logo-2023_7: 8539034573490284400
+      Unity-Engine-Logo-2023_8: -1544632909119608606
+      Unity-Engine-Logo-2023_9: 874774378758925323
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

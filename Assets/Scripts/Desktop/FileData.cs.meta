@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: b27d009fd75600b41861847d5058f4bf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - instantiator: {instanceID: 0}
+  - imageContent: {instanceID: 0}
+  - tmpName: {instanceID: 0}
+  - tmpType: {instanceID: 0}
+  - tmpDate: {instanceID: 0}
+  - tmpSize: {instanceID: 0}
+  - prefab_Texteditor: {fileID: 8449571909600436987, guid: c90fb3e6d67f91a4e81dfc243a0d81ee, type: 3}
+  - prefab_CodeInputField: {fileID: 5503245990310803762, guid: 96edf28f569e51740a77f2add8754f05, type: 3}
+  - prefab_PNG: {fileID: 8986800870076351449, guid: 5b4d568e1dc4ca0488415fdb67c47025, type: 3}
+  - typeIcon: {instanceID: 0}
+  - lockIcon: {instanceID: 0}
+  - iconDrive: {fileID: 21300000, guid: 22f3ce8c6d7c43b428c67661370caa3d, type: 3}
+  - iconFolder: {fileID: 21300000, guid: da8911bfea33bc847b0db4e68accbd28, type: 3}
+  - iconExe: {fileID: 21300000, guid: f660aacd5b1c97c448f652cc04f75330, type: 3}
+  - iconText: {fileID: 21300000, guid: 648c1a74a1caea8478bbdc729e2e9965, type: 3}
+  - iconPNG: {fileID: 21300000, guid: 8f6cbf7b34a5c6f46b0257a3c10f2d56, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

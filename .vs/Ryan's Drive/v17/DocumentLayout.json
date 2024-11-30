@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tim\\UnityC\\Ryan\u0027s Drive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{478A38D3-37FC-2F2C-83CA-2FAA84819DAD}|Assembly-CSharp.csproj|c:\\tim\\unityc\\ryan\u0027s drive\\assets\\scripts\\desktop\\contentmanag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478A38D3-37FC-2F2C-83CA-2FAA84819DAD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\desktop\\contentmanag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478A38D3-37FC-2F2C-83CA-2FAA84819DAD}|Assembly-CSharp.csproj|C:\\Tim\\UnityC\\Ryan\u0027s Drive\\assets\\scripts\\desktop\\sortexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478A38D3-37FC-2F2C-83CA-2FAA84819DAD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\desktop\\sortexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478A38D3-37FC-2F2C-83CA-2FAA84819DAD}|Assembly-CSharp.csproj|C:\\Tim\\UnityC\\Ryan\u0027s Drive\\assets\\scripts\\desktop\\filedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478A38D3-37FC-2F2C-83CA-2FAA84819DAD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\desktop\\filedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478A38D3-37FC-2F2C-83CA-2FAA84819DAD}|Assembly-CSharp.csproj|C:\\Tim\\UnityC\\Ryan\u0027s Drive\\assets\\scripts\\desktop\\backarrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478A38D3-37FC-2F2C-83CA-2FAA84819DAD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\desktop\\backarrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478A38D3-37FC-2F2C-83CA-2FAA84819DAD}|Assembly-CSharp.csproj|C:\\Tim\\UnityC\\Ryan\u0027s Drive\\assets\\scripts\\desktop\\rawfiledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478A38D3-37FC-2F2C-83CA-2FAA84819DAD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\desktop\\rawfiledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContentManag.cs",
+              "DocumentMoniker": "C:\\Tim\\UnityC\\Ryan\u0027s Drive\\Assets\\Scripts\\Desktop\\ContentManag.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Desktop\\ContentManag.cs",
+              "ToolTip": "C:\\Tim\\UnityC\\Ryan\u0027s Drive\\Assets\\Scripts\\Desktop\\ContentManag.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Desktop\\ContentManag.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAIwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T22:26:00.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RawFileData.cs",
+              "DocumentMoniker": "C:\\Tim\\UnityC\\Ryan\u0027s Drive\\Assets\\Scripts\\Desktop\\RawFileData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Desktop\\RawFileData.cs",
+              "ToolTip": "C:\\Tim\\UnityC\\Ryan\u0027s Drive\\Assets\\Scripts\\Desktop\\RawFileData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Desktop\\RawFileData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T22:20:26.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileData.cs",
+              "DocumentMoniker": "C:\\Tim\\UnityC\\Ryan\u0027s Drive\\Assets\\Scripts\\Desktop\\FileData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Desktop\\FileData.cs",
+              "ToolTip": "C:\\Tim\\UnityC\\Ryan\u0027s Drive\\Assets\\Scripts\\Desktop\\FileData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Desktop\\FileData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T18:38:52.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BackArrow.cs",
+              "DocumentMoniker": "C:\\Tim\\UnityC\\Ryan\u0027s Drive\\Assets\\Scripts\\Desktop\\BackArrow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Desktop\\BackArrow.cs",
+              "ToolTip": "C:\\Tim\\UnityC\\Ryan\u0027s Drive\\Assets\\Scripts\\Desktop\\BackArrow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Desktop\\BackArrow.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:28:15.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SortExplorer.cs",
+              "DocumentMoniker": "C:\\Tim\\UnityC\\Ryan\u0027s Drive\\Assets\\Scripts\\Desktop\\SortExplorer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Desktop\\SortExplorer.cs",
+              "ToolTip": "C:\\Tim\\UnityC\\Ryan\u0027s Drive\\Assets\\Scripts\\Desktop\\SortExplorer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Desktop\\SortExplorer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T18:21:52.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
