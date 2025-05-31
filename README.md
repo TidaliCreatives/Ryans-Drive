@@ -1,7 +1,7 @@
-Heyho,
+Hey there,
 
-Stead (my friend) and Tidali (Me) are happy to show you our little project we made for the game off 2024 game jam!
-we hope you enjoy and give it some time, it's supposed to take as much time as you need.
+Stead (my friend) and I, Tidali, are excited to share our small project from the Game Off 2024 jam.
+Take all the time you want—it’s designed to be played at your own pace.
 
-Stead was mostly busy with drawing and sketching images, aswell as dialogue. He also sketched out the most games, keeping the GDD organized and mindful about what to do.
-Tidali did mostly coding and revised most of the code made by Stead, making his games function. He also made and searched all of the audio, whether music or SFX. The background track is enirely composed by himself.
+Stead focused mostly on drawing, sketching, and writing dialogue. He also handled most of the app designs, kept the GDD organized, and made sure we stayed on track.
+I spent most of my time coding, polishing Stead’s code to make the game work smoothly. I also composed the entire soundtrack and created or sourced all the audio, including music and sound effects.
